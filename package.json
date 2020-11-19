@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "semantic-ui-calendar": "^0.0.8",
+    "semantic-ui-calendar-react": "^0.15.3"
+  }
+}
